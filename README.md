@@ -2,9 +2,9 @@
 
 *COMPANY* : CODTECH IT SOLUTIONS
 
-*NAME* : AJAY WAGHMARE
+*NAME* : TEJA SHEVALE
 
-*INTERN ID* : CT04DM470
+*INTERN ID* : CT04DG863
 
 *DOMAIN* : REACT DEVELOPMENT
 
@@ -74,4 +74,3 @@ Upon successful completion, a certificate will be issued by CodTech on the inter
 
 #Output : 
 
-![Image](https://github.com/user-attachments/assets/8dc1c4c4-003d-46bf-8c19-457cc21cfc5c)
